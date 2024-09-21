@@ -1,3 +1,5 @@
 # 2024-Ollama
 backed by OSS (https://www.oss.kr/)
-bad example
+
+# test
+test입니다.
